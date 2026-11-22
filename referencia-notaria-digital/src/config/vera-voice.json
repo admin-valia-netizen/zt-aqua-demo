@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "assistant": "ZT VERA",
+  "engine": "browser-web-speech",
+  "language": "es-DO",
+  "rate": 0.95,
+  "pitch": 1,
+  "volume": 1,
+  "initialSelection": "First es-DO voice; otherwise first Spanish voice. Same selection as the voice approved on 15 October 2026.",
+  "preservation": "Pin the voice URI, name, language and localService on successful speech start. Never substitute a missing pinned voice.",
+  "exactDeviceVoice": "Pending capture from the user's Android; not available in the remote browser.",
+  "audioModelIncluded": false
+}
